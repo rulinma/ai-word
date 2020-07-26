@@ -13,5 +13,5 @@
 
 ## 单词 <a id="word"></a>
 
-* [马如林记单词1 - The](word/the.md)
+* [1 - The](word/the.md)
 
