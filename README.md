@@ -37,7 +37,7 @@ description: 马如林记单词
 * 其他
   * [Corpus of Contemporary American English](https://www.english-corpora.org/coca/) \[当代美国英语语料库\] 
 
-```text
+```markup
 </br>
 ```
 
