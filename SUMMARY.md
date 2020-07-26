@@ -1,6 +1,6 @@
 # Table of contents
 
-* [马如林记单词](README.md)
+* [AI记单词](README.md)
 
 ## 导论 <a id="guide"></a>
 
@@ -13,7 +13,5 @@
 
 ## 单词 <a id="word"></a>
 
----
-
-* [马如林记单词1 - The](the.md)
+* [马如林记单词1 - The](word/the.md)
 
