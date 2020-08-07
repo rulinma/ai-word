@@ -1,5 +1,5 @@
 ---
-description: 马如林记单词
+description: 人工智能记单词 马如林记单词
 ---
 
 # AI记单词
