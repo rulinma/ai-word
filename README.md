@@ -18,7 +18,7 @@ description: 马如林记单词
 
 **淘宝（提供文本打印服务）：**[**https://rulinma.taobao.com/**](https://rulinma.taobao.com/)\*\*\*\*
 
-**喜马拉雅（提供部分免费音频）：**[**https://www.ximalaya.com/zhubo/79079457/**](https://www.ximalaya.com/zhubo/79079457/)\*\*\*\*
+**喜马拉雅（提供音频）：**[**https://www.ximalaya.com/zhubo/79079457/**](https://www.ximalaya.com/zhubo/79079457/)\*\*\*\*
 
 微博：[https://weibo.com/rulinma](https://weibo.com/rulinma)
 
