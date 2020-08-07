@@ -4,7 +4,7 @@ description: 人工智能记单词 马如林记单词
 
 # AI记单词
 
-网址: [http://www.rulinma.com](http://www.rulinma.com/)
+**网址:** [**http://www.rulinma.com**](http://www.rulinma.com/)\*\*\*\*
 
 **网易云课堂（提供音视频讲解）：**[**http://study.163.com/u/rulinma**](http://study.163.com/u/rulinma)\*\*\*\*
 
