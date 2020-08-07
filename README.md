@@ -14,7 +14,9 @@ description: 马如林记单词
 
 微信公众号：马如林
 
-网易云课堂：[http://study.163.com/u/rulinma](http://study.163.com/u/rulinma)
+网易云课堂（提供音视频讲解）：[http://study.163.com/u/rulinma](http://study.163.com/u/rulinma)
+
+淘宝（提供文本打印服务）：[https://rulinma.taobao.com/](https://rulinma.taobao.com/)
 
 微博：[https://weibo.com/rulinma](https://weibo.com/rulinma)
 
