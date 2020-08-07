@@ -2,7 +2,7 @@
 description: 马如林记单词
 ---
 
-# AI记单词 爱上记单词
+# AI记单词
 
 创作：马如林
 
@@ -13,6 +13,8 @@ description: 马如林记单词
 微信：rulinma
 
 微信公众号：马如林
+
+网易云课堂：[http://study.163.com/u/rulinma](http://study.163.com/u/rulinma)
 
 微博：[https://weibo.com/rulinma](https://weibo.com/rulinma)
 
