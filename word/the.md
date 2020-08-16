@@ -6,5 +6,5 @@ description: the
 
 
 
-![Image text](https://github.com/rulinma/ai-word/blob/master/.gitbook/assets/1-the.jpg)
+![Image text](https://github.com/rulinma/ai-word/raw/master/.gitbook/assets/1-the.jpg)
 
