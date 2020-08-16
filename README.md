@@ -4,13 +4,13 @@ description: 人工智能记单词 马如林记单词
 
 # AI记单词
 
-**网址:** [**http://www.rulinma.com**](http://www.rulinma.com/)\*\*\*\*
+**网址:** [**http://www.rulinma.com**](http://www.rulinma.com/)
 
-**网易云课堂（提供音视频讲解）：**[**http://study.163.com/u/rulinma**](http://study.163.com/u/rulinma)\*\*\*\*
+**网易云课堂（提供音视频讲解）：**[**http://study.163.com/u/rulinma**](http://study.163.com/u/rulinma)
 
-**淘宝（提供文本打印服务）：**[**https://rulinma.taobao.com**](https://rulinma.taobao.com/)\*\*\*\*
+**淘宝（提供文本打印服务）：**[**https://rulinma.taobao.com**](https://rulinma.taobao.com/)
 
-**喜马拉雅（提供音频）：**[**https://www.ximalaya.com/zhubo/79079457**](https://www.ximalaya.com/zhubo/79079457/)\*\*\*\*
+**喜马拉雅（提供音频）：**[**https://www.ximalaya.com/zhubo/79079457**](https://www.ximalaya.com/zhubo/79079457/)
 
 微信：rulinma
 
