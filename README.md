@@ -41,3 +41,5 @@ description: 人工智能记单词 马如林记单词
 
 版权所有 翻版必究 未经许可 不得使用或转载
 
+![Image text](https://github.com/rulinma/ai-word/blob/master/.gitbook/assets/0.png)
+
