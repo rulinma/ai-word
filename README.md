@@ -120,7 +120,7 @@ description: 人工智能记单词 马如林记单词
   * [100 well](https://github.com/rulinma/ai-word/blob/master/word/well.md)
 
 
-资料：
+参考和推荐：
 
 * 字典
   * [有道字典 ](http://youdao.com)
