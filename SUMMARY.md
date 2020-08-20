@@ -4,6 +4,7 @@
 
 ## 导论 <a id="guide"></a>
 
+* [单词列表](guide/words.md)
 * [开天辟地](guide/start.md)
 * [记忆方法](guide/method.md)
 * [构词方法](guide/construct.md)
