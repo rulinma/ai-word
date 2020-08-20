@@ -18,7 +18,9 @@ description: 人工智能记单词 马如林记单词
 
 微博：[https://weibo.com/rulinma](https://weibo.com/rulinma)
 
-简书：[https://www.jianshu.com/u/dc2b9e3f708e](https://www.jianshu.com/u/dc2b9e3f708e) 单词列表：
+简书：[https://www.jianshu.com/u/dc2b9e3f708e](https://www.jianshu.com/u/dc2b9e3f708e) 
+
+单词列表：[https://github.com/rulinma/ai-word/blob/master/guide/words.md]
 
 * [1 the](https://github.com/rulinma/ai-word/blob/master/word/the.md)
 * [2 be](https://github.com/rulinma/ai-word/blob/master/word/be.md)
