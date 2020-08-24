@@ -20,9 +20,9 @@ description: 人工智能记单词 马如林记单词
 
 简书：[https://www.jianshu.com/u/dc2b9e3f708e](https://www.jianshu.com/u/dc2b9e3f708e)
 
-单词词频排序列表：\[[https://github.com/rulinma/ai-word/blob/master/guide/words.md](https://github.com/rulinma/ai-word/blob/master/guide/words.md)\]
+单词词频排序列表：[https://github.com/rulinma/ai-word/blob/master/guide/words.md](https://github.com/rulinma/ai-word/blob/master/guide/words.md)
 
-单词字母排序列表：\[[https://github.com/rulinma/ai-word/blob/master/guide/order.md](https://github.com/rulinma/ai-word/blob/master/guide/order.md)\]
+单词字母排序列表：[https://github.com/rulinma/ai-word/blob/master/guide/order.md](https://github.com/rulinma/ai-word/blob/master/guide/order.md)
 
 * 1 the
 * 2 be
