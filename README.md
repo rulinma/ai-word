@@ -4,6 +4,10 @@ description: 人工智能记单词 马如林记单词
 
 # AI记单词
 
+**单词词频排序列表：** [https://github.com/rulinma/ai-word/blob/master/guide/words.md](https://github.com/rulinma/ai-word/blob/master/guide/words.md)
+
+**单词字母排序列表：**[https://github.com/rulinma/ai-word/blob/master/guide/order.md](https://github.com/rulinma/ai-word/blob/master/guide/order.md)
+
 **网址:** [**http://www.rulinma.com**](http://www.rulinma.com/)
 
 **网易云课堂（提供音视频讲解）：**[**http://study.163.com/u/rulinma**](http://study.163.com/u/rulinma)
@@ -20,9 +24,7 @@ description: 人工智能记单词 马如林记单词
 
 简书：[https://www.jianshu.com/u/dc2b9e3f708e](https://www.jianshu.com/u/dc2b9e3f708e)
 
-单词词频排序列表：[https://github.com/rulinma/ai-word/blob/master/guide/words.md](https://github.com/rulinma/ai-word/blob/master/guide/words.md)
 
-单词字母排序列表：[https://github.com/rulinma/ai-word/blob/master/guide/order.md](https://github.com/rulinma/ai-word/blob/master/guide/order.md)
 
 参考和推荐：
 
