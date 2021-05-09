@@ -24,8 +24,6 @@ description: 人工智能记单词 马如林记单词
 
 简书：[https://www.jianshu.com/u/dc2b9e3f708e](https://www.jianshu.com/u/dc2b9e3f708e)
 
-
-
 参考和推荐：
 
 * 字典
